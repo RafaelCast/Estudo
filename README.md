@@ -1,0 +1,1 @@
+Repositório para estudos de desenvolvimento back-end em Python, explorando principalmente Django, Flask e FastAPI.
